@@ -1,0 +1,1 @@
+Task 05 is to implement Neural Style Transfer (NST). This technique, first introduced by Leon Gatys et al. in 2015, uses a pre-trained Convolutional Neural Network (CNN) to separate and recombine the "content" of one image and the "style" of another.
